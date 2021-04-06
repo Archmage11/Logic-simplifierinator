@@ -87,5 +87,5 @@
 
 (defn -main
   [& args] args 
-  (evalexp b1 p1)
+  (evalexp b1 p1) ;; example call using example logic and bindings above 
 )
